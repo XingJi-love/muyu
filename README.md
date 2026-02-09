@@ -2,7 +2,7 @@
 
 一个网页版电子木鱼
 
-查看效果：https://52js.github.io/ElectronFish
+查看效果：https://PyCoreDev.github.io/ElectronFish
 
 # 许可
 

@@ -103,7 +103,7 @@ autoClickElement.addEventListener("click", () => {
       setTimeout(() => {
         initAnimate();
       }, 200);
-    }, 500);
+    }, 1000);
   } else {
     autoClickElement.classList.remove("confirm");
     clearInterval(autoClickInterval);
