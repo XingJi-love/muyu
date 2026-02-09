@@ -6,4 +6,4 @@
 
 # 许可
 
-[GNU General Public License v3.0](https://github.com/52js/ElectronFish/blob/5dafbbdc5cb1645e66efbb82ebb3e2e78e34b419/LICENSE)
+[GNU General Public License v3.0](https://github.com/PyCoreDev/ElectronFish/blob/5dafbbdc5cb1645e66efbb82ebb3e2e78e34b419/LICENSE)
